@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ashishcb035@gmail.com**
 
-- ⚡ Fun fact **gammer.**
+- ⚡ **gammer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
