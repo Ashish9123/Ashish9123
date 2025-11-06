@@ -1,4 +1,7 @@
+<img width="807" height="403" alt="image" src="https://github.com/user-attachments/assets/e87a4e2e-992a-4167-89ec-785d57c6cff8" />
+
 <h1 align="center">Hi 👋, I'm Ashish kumar</h1>
+
 <h3 align="center">A passionate coud computing cloud engineering from India.</h3>
 
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
