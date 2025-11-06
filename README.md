@@ -1,3 +1,4 @@
+!logo[](https://github.com/Ashish9123/Ashish9123/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png)
 <img width="807" height="403" alt="image" src="https://github.com/user-attachments/assets/e87a4e2e-992a-4167-89ec-785d57c6cff8" />
 
 <h1 align="center">Hi 👋, I'm Ashish kumar</h1>
