@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish kumar</h1>
 <h3 align="center">A passionate coud computing cloud engineering from India.</h3>
 
-<img align="right" alt="coding" width="400" src="<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />">
+<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish9123&label=Profile%20views&color=0e75b6&style=flat" alt="ashish9123" /> </p>
 
